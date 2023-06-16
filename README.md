@@ -8,3 +8,5 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 **Last Played:** N/A
 
 **Minecraft Version:** 1.20.1
+
+**World Size:** N/A

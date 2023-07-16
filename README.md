@@ -3,10 +3,10 @@ Fourth survival world of server.
 
 To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
 
-**First Played:** N/A
+**First Played:** July 2023 on 1.20.1
 
-**Last Played:** N/A
+**Last Played:** July 15, 2023
 
 **Minecraft Version:** 1.20.1
 
-**World Size:** N/A
+**World Size:** 6.03 GB

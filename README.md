@@ -5,7 +5,7 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 
 **First Played:** July 2023 on 1.20.1
 
-**Last Played:** July 15, 2023
+**Last Played:** July 16, 2023
 
 **Minecraft Version:** 1.20.1
 

@@ -6,8 +6,8 @@ There is also a folder with the mods used to generate the world.
 
 **First Played:** July 2023 on 1.20.1
 
-**Last Played:** July 16, 2023
+**Last Played:** July 21, 2023
 
 **Minecraft Version:** 1.20.1
 
-**World Size:** 6.03 GB
+**World Size:** 6.05 GB

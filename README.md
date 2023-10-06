@@ -6,7 +6,7 @@ There is also a folder with the mods used to generate the world.
 
 **First Played:** July 2023 on 1.20.1
 
-**Last Played:** September 12, 2023
+**Last Played:** September 21, 2023
 
 **Minecraft Version:** 1.20.1
 

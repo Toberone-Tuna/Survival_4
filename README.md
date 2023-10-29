@@ -11,3 +11,5 @@ There is also a folder with the mods used to generate the world (You need these 
 **Minecraft Version:** 1.20.2
 
 **World Size:** 6.05 GB
+
+**Note:** The world may not fully download through the web browser due to the large size. If the world size after unzipping is not equal to 6.05 GB, it is not the full world. In that case, you will have to use GitHub Desktop or another Git program to clone the repository.
